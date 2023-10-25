@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('/path/to/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Alike';
+    src: url('/path/to/Alike-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* Adicione outras fontes globais, se necessário */
+  
